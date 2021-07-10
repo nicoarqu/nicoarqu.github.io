@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I'm Nicolás, a software developer with studies in Computer Science and Visual Arts.
 
-### More Information
+Check out my portfolio :)
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nlaraya@uc.cl](mailto:nlaraya@uc.cl)
